@@ -1,0 +1,18 @@
+h1{
+    margin-top: 5%;
+}
+.center{
+    margin: 0 auto;
+    text-align: center
+}
+#information{
+    margin-top: 8%;
+}
+.zoom{
+    
+    transition: transform .2s;
+}
+.zoom:hover{
+    color: pink;
+    transform: scale(1.2);
+}
