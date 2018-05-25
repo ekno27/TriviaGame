@@ -73,7 +73,7 @@ $("document").ready(function(){
             
         }
     
-    }//end of chekchoice
+    }//end of checkchoice
     
     //Automated functions//
 
