@@ -146,7 +146,7 @@ $("document").ready(function(){
         a.append("<p> number Incorrect: "+ incorrectCount+ "</p>");
         a.append("<button class='options btn btn-outline-dark'>Start Over</button>");
 
-        $("#information").html(a);
+        $("#information").hide().html(a).fadeIn(1000);
         
         
     }
